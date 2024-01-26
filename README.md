@@ -1,5 +1,5 @@
 # Visual-Search-Engine
-## Dataset: https://data.caltech.edu/records/mzrjq-6wc02
+### Dataset link: https://data.caltech.edu/records/mzrjq-6wc02
 
 The project is broken down into two distinct sections. The first section focuses on the construction of images feature matrix (PCA-reduced) & array containing paths to each image, and the second part focuses on image querying. This offers numerous different use cases for businesses:
 - Providing the ability for clients to search for similar items like clothing, furniture, car components, etc.
